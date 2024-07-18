@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cerro Verde</title>
+</head>
+<body>
+<div class="contenedor">
+<!-- menú-->
+
+<!-- imagen--> <!-- titulo-->
+    <div class="caja">
+    <img src="./ver-centroamerica-cerro-verde-el-salvador-08-604727827.jpg" alt="Cerro Verde">
+    <h1>PARQUE NACIONAL CERRO VERDE</h1>
+    <H2>SANTA ANA, EL SALVADOR</H2>
+    </div>
+
+<!-- evaluación --> <!-- servicio que tiene-->   
+    <div class="caja">
+        <h2>Evaluaciones</h2>
+
+        <h2>Servicios</h2>
+        <p>Caminatas hacia los volcanes de Santa Ana e Izalco <br>
+            Restaurantes <br>
+            Caminatas por el parque <br>
+            Hotel</p>
+    </div>
+
+<!-- descripción--> 
+    <div class="caja">
+        <h2>Descripción</h2>
+        <p>Complejo de volcanes accesibles que cuenta con sendas, vistas pintorescas y un lago en cráter de gran tamaño. 
+            Cuenta con 2 restaurantes con increibles vistas, excursiones hacia los volcanes Izalco y el de Santa Ana, y recorridos por la fauna del parque.</p>
+    </div>
+
+<!-- horario--> <!-- precios del lugar-->
+    <div class="caja">
+        <h2>Horario</h2>
+          <p>Lunes a Domingo de 8 a.m. a 8 p.m. (cuenta con un hotel para pasar la noche) <br>
+            Las caminatas hacia los volcanes salen de lunes a domingo: <br>
+                Volcán de Santa Ana a las 8:30 a.m. <br>
+                Volcan de Izalco a las 10:30 a.m.</p>  
+
+        <h2>Precios</h2>
+            <p>Para nacionales: $1.50
+                Para extranjeros: $3
+            </p>
+    </div>
+
+<!-- comentarios-->
+    <div class="comment-section">
+            <h2>Comentarios:</h2>
+            <div id="comments-container"></div>
+
+            <h3>Deja tu comentario:</h3>
+            <textarea id="comment-input"></textarea><br>
+            <button id="submit-button">Submit</button>
+    </div>
+
+<!-- ubicación-->
+    <div class="caja">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12011.93865703799!2d-89.63600219606668!3d13.827233821138273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f62c6ca3fcc3e7b%3A0x854e0fbc80396b88!2sParque%20Nacional%20Cerro%20Verde!5e0!3m2!1ses-419!2ssv!4v1721187231400!5m2!1ses-419!2ssv" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <div>
+
+<!-- botón para solicitar guía-->
+    <div id="solicitar-guia">
+        <button id="Solicita Guía">Solicita un guía</button>
+    </div>
+
+</div>
+
+</body>
+</html>
