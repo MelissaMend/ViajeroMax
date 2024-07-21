@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nosotros</title>
+</head>
+<body>
+   
+
+<div class = contenedor>
+    <div class="caja">
+        <h1>CONOZCAMOS JUNTOS A EL SALVADOR</h1>
+        <p>Queremos que conozcas El Salvador cuidando de tu bolsillo</p>
+        <img src="./elsalvador.jpg" alt="Imagen El Salvador">
+    </div>
+
+    <div class="caja">
+        <h2>NUESTRA HISTORIA</h2>
+        <P>Todo comenzó cuando 5 amigas (Diana, Evelyn, Johanna, Melissa y Mónica) se dieron cuenta que <br>
+            muchos de los sitios web de viajes solo incluyen lugares muy caros y muy populares. Ellas querían <br> 
+            tener una alternativa económica y diversa (no lo mismo de siempre). Por esta razón, ellas decidieron <br>
+            crear lo que querían ver, un sitio web que mostrara recomendaciones de lugares muy bonitos del país, <br>
+            pero no muy conocidos.</P>
+    </div>
+
+    <div class="caja">
+        <h2>MISIÓN</h2>
+        <P>Buscamos simplificar la búsqueda de lugares para hacer turismo en El Salvador, <br>
+        queremos que disfrutes del país sin coplicarte y sin gastar de más.</P>
+    </div>
+
+    <div class="caja">
+        <h2>VISIÓN</h2>
+        <P>Queremos ser el sitio web de referencia sobre turismo en El Salvador</P>
+    </div>
+
+
+</div>
+
+</body>
+</html>
